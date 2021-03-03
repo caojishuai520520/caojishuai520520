@@ -10,7 +10,7 @@
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center">
-<p align="center">JavaScript：70%</p>
+<p align="center" style='color:#A52A2A'>JavaScript：70%</p>
 <p align="center">css: 20%</p>
 <p align="center">HTML: 10%</p>
 <p align="center">Vue：80%</p>
