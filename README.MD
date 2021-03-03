@@ -10,9 +10,9 @@
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center">
-- <p>JavaScript：70%</p>
-- <p>css: 20%</p>
-- <p>HTML: 10%</p>
+<p>JavaScript：70%</p>
+<p>css: 20%</p>
+<p>HTML: 10%</p>
 </p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
