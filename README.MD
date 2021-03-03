@@ -10,7 +10,7 @@
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center">
-<p  align="center"  >JavaScript：70%</p>
+<p  align="center"  ><p style="color: red;">JavaScript：70%</p></p>
 <p align="center">Vue：80%</p>
 <p align="center">Node.js：40%</p>
 <p align="center">微信小程序：70%</p>
