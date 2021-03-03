@@ -3,6 +3,7 @@
 
   <h1 align='center'> ☺ 前端开发工程师</h1>
   <h2 align='center'>作品：<a href='https://www.rongtuoyunlian.cn/'>融拖优选</a></h2>
+  <h3>热爱分享：<a href='https://juejin.cn/user/465848663549149'>[前端大菜鸟]</a></h3>
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
