@@ -10,7 +10,7 @@
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center">
-- JavaScript：70%
+  <span>- JavaScript：70%</span>
 - css: 20%
 - HTML: 10%
 </p>
