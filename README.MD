@@ -3,7 +3,7 @@
 ### 我是曹吉帅 
 
 - 前端开发工程师
-- 作品：<a href='https://www.https://www.rongtuoyunlian.cn/'>融拖优选</a>
+- 作品：<a href='https://www.rongtuoyunlian.cn/'>融拖优选</a>
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
