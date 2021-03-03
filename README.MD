@@ -13,9 +13,9 @@
 <p align="center">JavaScript：70%</p>
 <p align="center">css: 20%</p>
 <p align="center">HTML: 10%</p>
-<p align="center">Vue</p>
-<p align="center">Node.js</p>
-<p align="center">微信小程序</p>
+<p align="center">Vue：80%</p>
+<p align="center">Node.js：40%</p>
+<p align="center">微信小程序：70%</p>
 </p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
