@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">访客数：</h4>
 
 <p align="center">
 <p  align="center">JavaScript：70%</p>
